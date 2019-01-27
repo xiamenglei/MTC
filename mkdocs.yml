@@ -1,0 +1,9 @@
+﻿site_name: MTC Documents
+nav:
+- Home:  index.md
+- 美国:
+    - 德州: test.md
+    - 明尼苏达州: Time\test.md
+- 泰国: Time\test.md
+theme: 'windmill'
+use_directory_urls: false
